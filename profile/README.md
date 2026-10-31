@@ -36,7 +36,6 @@ reviewed by AI, attacked by AI the way a real attacker would, and reviewed by en
 | --- | --- |
 | [owload-frontend](https://github.com/owload/owload-frontend) | The web client: where the encryption happens |
 | [owload-backend](https://github.com/owload/owload-backend) | The API: accounts, drives, access, and the encrypted data. It never receives a password or a key |
-| [owload-keycloakify](https://github.com/owload/owload-keycloakify) | The sign-in and registration pages (a Keycloak theme) |
 | [owload-docs](https://github.com/owload/owload-docs) | The architecture, the decisions behind it and the operating notes |
 | [editor-sdk](https://github.com/owload/editor-sdk) | The contract that file-format extensions are written against |
 | [text-editor](https://github.com/owload/text-editor) | Extension: a plain-text (`.txt`) editor |
